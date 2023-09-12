@@ -1,2 +1,7 @@
-# data-science-reports
-Some of my data science reports
+# Data Science Reports
+
+Some of my reports.
+
+## License
+
+GNU GPLv3 © Rafael García
